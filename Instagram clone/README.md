@@ -8,7 +8,7 @@
 
 The Attached are Schema.sql and Challenges.sql
 
-### - Schema.sql file
+### a) Schema.sql file
 
 Schema.sql file contains all the SQL code to intiate a mini instagram clone. The file performs 3 main tasks
 
@@ -20,6 +20,6 @@ Schema.sql file contains all the SQL code to intiate a mini instagram clone. The
 
 #### 3) A generated data for each table to be inserted to apply data analysation process. These data consistes of approximatley,(~), 7488 rows to "comments table", ~ 7623 rows applied to "follows" table, ~ 8782 rows in the "likes" table, 501 rows in the "photo_tags" table, 257 rows in "photos" set, 21 tags, and 100 users.
 
-### - Challenges.sql file
+### b) Challenges.sql file
 
 This file contains commands performed to execute desired outcomes. The desired outcome is defined ahead of the command function
